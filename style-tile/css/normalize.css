@@ -64,7 +64,7 @@ template {
  */
 
 html {
-    font-family: sans-serif; /* 1 */
+    font-family: 'Francois One', sans-serif; /* 1 */
     -ms-text-size-adjust: 100%; /* 2 */
     -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -118,6 +118,7 @@ a:hover {
 h1 {
     font-size: 2em;
     margin: 0.67em 0;
+    color: #FF3300
 }
 
 /**
